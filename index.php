@@ -10,5 +10,6 @@
 </head>
 <body>
     <p>Cool</p>
+    <?php echo '<h1>Hello World!</h1><h3>Welcome to DEV</h3>'; ?>
 </body>
 </html>
